@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Krunch</title>
+</head>
+<body>
+   <div class="top">
+    <div class="header">
+        <div class="nav">
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c2da8652f6a18001ef1ce6_logo.png" alt="">
+            <ul> 
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">ABOUT</a></li>
+                <li><a href="#">POTFOLIO</a></li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">TEAM</a></li>
+                <li><a href="#">BLOG</a></li>
+                <li><a href="#">CONTACT</a></li>
+            </ul>
+        </div>
+        <h1>CLEAN AND FLEXIBLE TEMPLATE</h1>
+        <p>Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere. <br>
+             Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. </p>
+             <div class="haha">
+             <button class="one">DOWNLOAD NOW</button>
+             <button class="two">VIEW FEATURES</button>
+             </div>
+    </div>
+   </div>
+   <div class="container1">
+    <div class="main1">
+        <h1>ABOUT US</h1>
+        <p>Setibulum rutrum quam vitae fringilla tincidunt</p>
+        <!-- <hr> -->
+        <div class="gain">
+            <p class="kaka">Lorem ipsum dolor sitamet, consectetur adipisicing elit, seddo eiusmod tempor <br> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quisus  <br> nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis <br> aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla <br> pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia <br> deserunt mollit anim id est laborum. <br>
+
+               <br> Excepteur sint occaecat cupidatat none proident,<br> sunt in culpa qui officia deserunt mollit anim id est laborum voluptate dolor.</p>
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c2f8bdb166809064184b60_home-about.jpg" alt="">
+        </div>
+    </div>
+   </div>
+   <div class="container1">
+    <div class="main1">
+        <h1>PORTFOLIO</h1>
+        <p>An eye for detail makes our work beautiful</p>
+        <!-- <hr> -->
+    </div>
+    <div class="main22">
+        <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c2fc413566a09e01f711c4_work-9-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009bf69ff41454c6fe63_work-2-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365383_work-1-p-500x334.jpeg" alt=""><img src=" https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c617cac9b64365385_work-8-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b52f6a18001ef67c2_work-3-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b52f6a18001ef67c3_work-5-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009b617cac9b64365384_work-4-p-500x334.jpeg" alt=""><img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3009c739f273554ad015b_work-7-p-500x334.jpeg" alt="">
+    </div>
+    </div>
+    <div class="joke">
+        <p>Have a Project in Mind?</p>
+        <button>CONTACT NOW</button>
+    </div>
+    <div class="lalu">
+        <div class="goli">
+      <h1>TESTIMONIALS</h1>
+      <!-- <hr> -->
+      <p>It really saves me time and effort. web design is exactly  what our business has been lacking. Duis cursus, mi quis <br> viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id  <br> rutrum lorem imperdiet. Nunc ut sem risus tristique posuere.</p>
+      <h2>WALTER WARD</h2>
+        </div>
+    </div>
+    <div class="main44">
+        <div class="main1">
+            <h1>SERVICES</h1>
+            <p>Scope of our featured premium services</p>
+            <!-- <hr> -->
+        </div>
+        <div class="game">
+            <div class="grid">
+                <div class="box1">
+                   <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                    <h1>WEB DESIGN</h1>
+                    <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+                </div> <div class="box1">
+                    <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                     <h1>WEB DEVELOPER</h1>
+                     <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+                 </div> <div class="box1">
+                    <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                     <h1>WEB ANIMATION</h1>
+                     <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+            </div>
+        </div>
+    </div>  <div class="game">
+        <div class="grid">
+            <div class="box1">
+               <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                <h1>WEB DESIGN</h1>
+                <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+            </div> <div class="box1">
+                <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                 <h1>WEB DEVELOPER</h1>
+                 <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+             </div> <div class="box1">
+                <div class="logo"><link href='https://css.gg/tv.css' rel='stylesheet'></div>
+                 <h1>WEB ANIMATION</h1>
+                 <P>Lorem ipsum dolor sit amet, <BR>consectetur adipiscing elit. <br> Suspendisse varius enim eros <br> elementum tristique. Duis cursus, <br> viverra ornare, eros dolor interdum nulla, <br> commodo diam libero vitae.</P>
+        </div>
+    </div>
+</div>
+<div class="conatainer22">
+    <div class="main1">
+        <h1>AWESOME TEAM</h1>
+        <p>Setibulum rutrum quam vitae fringilla tincidunt</p>
+        <!-- <hr> -->
+    </div>
+    <div class="line">
+        <div class="people">
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3174a617cac9b643685b5_team-1.jpg" alt="">
+            <!-- <h1>MICHAEL THOMAS</h1> -->
+            <!-- <p>Creative Director</p> -->
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3174a739f273554ad25b4_team-2.jpg" alt="">
+            <!-- <h1>ALEXA MEYER</h1> -->
+            <!-- <p>Graphic Designer</p> -->
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3174b739f273554ad25b5_team-3.jpg" alt="">
+            <!-- <h1>JEFFREY STEWARD</h1> -->
+            <!-- <p>Web Developer</p> -->
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3174b52f6a18001ef8d42_team-4.jpg" alt="">
+            <!-- <h1>BRUCE MOORE</h1> -->
+            <!-- <p>Web Designer</p> -->
+        </div>
+    </div>
+    <div class="info">
+        <h1 class="ok">MICHAEL THOMAS </h1>
+        <!-- <p>Creative Director</p> -->
+        <h1 class="okk">ALEXA MEYER</h1>
+        <!-- <p>Graphic Designer</p> -->
+        <h1 class="okkk">JEFFREY STEWARD</h1>
+        <!-- <p>Web Developer</p> -->
+        <h1 class="okkkk">BRUCE MOORE</h1>
+        <!-- <p>Web Designer</p> -->
+    </div>
+    <div class="chai">
+        <div class="img55">
+           <p>Aenean commodo ligula eget dolor sociis natoque penatibus et magnis <br>
+            dis parturient montes, nascetur ridiculus consectetur muse.</p>
+            <button class="mama">DOWNLOAD NOW</button>
+        </div>
+    </div>
+</div>
+<div class="cintainer23">
+    <div class="main1">
+        <h1>AWESOME TEAM</h1>
+        <p>Setibulum rutrum quam vitae fringilla tincidunt</p>
+        <!-- <hr> -->
+    </div>
+    <div class="gig">
+        <div class="lel1">
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c32085b166809064187a9c_news-thumb-3-p-500x300.jpeg" alt="">
+            <h1>Tempor incidunt labore dolor</h1>
+            <p>August 24, 2016</p>
+            <h3>Excepteur sint occaecat cupidatat non proident, <br> sunt in culpa qui officia deserunt mollit anim id est <br> laborum.</h3>
+            <h4>READ MORE</h4>
+        </div>
+        <div class="lel1">
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c3296d60b164041bc35522_news-thumb-2-p-500x300.jpeg" alt="">
+            <h1>Tempor incidunt labore dolor</h1>
+            <p>August 24, 2016</p>
+            <h3>Excepteur sint occaecat cupidatat non proident, <br> sunt in culpa qui officia deserunt mollit anim id est <br> laborum.</h3>
+            <h4>READ MORE</h4>
+        </div>
+        <div class="lel1">
+            <img src="https://daks2k3a4ib2z.cloudfront.net/57c2c646739f273554acc4af/57c329d28f74bc0349ef7f33_news-thumb-1-p-500x300.jpeg" alt="">
+            <h1>Tempor incidunt labore dolor</h1>
+            <p>August 24, 2016</p>
+            <h3>Excepteur sint occaecat cupidatat non proident, <br> sunt in culpa qui officia deserunt mollit anim id est <br> laborum.</h3>
+            <h4>READ MORE</h4>
+        </div>
+    </div>
+</div>
+<button class="mama1">READ OUR BLOG</button>
+<div class="main999">
+    <h1>KEEP IN TOUCH</h1>
+    <p>Setibulum rutrum quam vitae fringilla tincidunt</p>
+    <!-- <hr> -->
+</div>
+
+    <div class="contact">
+        <input class="bb" type="text" placeholder="Enter your Name"> 
+        <input  class="nn" type="text" placeholder="Enter your Name"> 
+    </div>
+    <div class="llll">
+        <input  class="aa" type="text" placeholder="Enter your Email Address"> 
+    </div>
+    <div class="yy">
+        <div class="qq">
+            <textarea name="rr" id="" placeholder="Your Message" cols="90" rows="15"></textarea>
+        </div>
+        <div class="hyy">
+            <button class="papa"> SEND MESSAGE </button>
+            </div>
+    </div>
+    <section class="footer">
+        <div class="zz">
+            <ul>
+                <li>FACEBOOK</li>
+                <li>TWITTER</li>
+                <li>INSTAGRAM</li>
+                <li>GOOGLE+</li>
+            </ul>
+        </div>
+        <div class="new">
+            © 2016 KRUNCH LANDING PAGE, DESIGNED BY <a href=""> SHUVO </a>  & WEBFLOWED BY <a href=""> TAIMURIAN </a> 
+        </div>
+    </section>
+</body>
+</html>
